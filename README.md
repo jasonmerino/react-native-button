@@ -1,8 +1,8 @@
-# react-native-button
-A button for React Native
+# react-native-pager
+A pager for React Native
 
 ## Installation
 
 ```sh
-npm i jasonmerino/react-native-button -S
+npm i jasonmerino/react-native-pager -S
 ```

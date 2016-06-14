@@ -1,19 +1,22 @@
 {
-  "name": "react-native-button",
-  "version": "1.0.1",
-  "description": "A button for React Native",
+  "name": "react-native-pager",
+  "version": "1.0.0",
+  "description": "A pager for React Native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasonmerino/react-native-button.git"
+    "url": "git+https://github.com/jasonmerino/react-native-pager.git"
   },
   "author": "Jason Merino",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jasonmerino/react-native-button/issues"
+    "url": "https://github.com/jasonmerino/react-native-pager/issues"
   },
-  "homepage": "https://github.com/jasonmerino/react-native-button#readme"
+  "homepage": "https://github.com/jasonmerino/react-native-pager#readme",
+  "devDependencies": {
+    "eslint-config-dictator": "github:jasonmerino/eslint-config-dictator"
+  }
 }
